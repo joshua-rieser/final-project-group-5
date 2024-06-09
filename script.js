@@ -12,7 +12,7 @@ function togglePlay() {
 }
 
 function updatePlayBtn() {
-  playPauseBtn.innerHTML = videoContainer.paused ? "▶" : "⏸";
+  playPauseBtn.innerHTML = videoContainer.paused ? "▶️" : "⏸";
 }
 
 function handleProgress() {
