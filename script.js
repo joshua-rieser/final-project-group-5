@@ -55,7 +55,7 @@ function togglePlay2() {
 }
 
 function updatePlayBtn2() {
-  playPauseBtn2.innerHTML = videoContainer2.paused ? "►" : "❚❚";
+  playPauseBtn2.innerHTML = videoContainer2.paused ? "▶️" : "⏸";
 }
 
 function handleProgress2() {
@@ -98,7 +98,7 @@ function togglePlay3() {
 }
 
 function updatePlayBtn3() {
-  playPauseBtn3.innerHTML = videoContainer3.paused ? "►" : "❚❚";
+  playPauseBtn3.innerHTML = videoContainer3.paused ? "▶️" : "⏸";
 }
 
 function handleProgress3() {
@@ -141,7 +141,7 @@ function togglePlay4() {
 }
 
 function updatePlayBtn4() {
-  playPauseBtn4.innerHTML = videoContainer4.paused ? "►" : "❚❚";
+  playPauseBtn4.innerHTML = videoContainer4.paused ? "▶️" : "⏸";
 }
 
 function handleProgress4() {
@@ -185,7 +185,7 @@ function togglePlay5() {
 }
 
 function updatePlayBtn5() {
-  playPauseBtn5.innerHTML = videoContainer5.paused ? "►" : "❚❚";
+  playPauseBtn5.innerHTML = videoContainer5.paused ? "▶️" : "⏸";
 }
 
 function handleProgress5() {
