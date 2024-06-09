@@ -149,7 +149,7 @@ img {
 }
 .progress__filled {
   width: 50%;
-  background: #AA5500;
+  background: #D50000;
   flex: 0;
   flex-basis: 0%;
 }
